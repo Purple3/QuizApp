@@ -1,0 +1,9 @@
+1. 3 activities , 3 xml files
+2. intents (explicit intents)
+
+each activity -
+    1. one question per page - question, choices, "submit" button
+        on submit -> result and "next" button
+    2. clicking "next" button -> takes you to another page with next question and
+        [Step-1] Repeats
+    3. once all questions are completed, show results (pass/fail) - activity - Result, Pass/Fail statement
