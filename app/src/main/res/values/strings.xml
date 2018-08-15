@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="tv_welcomeNote">Welcome to Quiz App!</string>
+    <string name="tv_chooseTopic">Choose a topic below to begin Quiz:</string>
+    <string name="btn_next">Begin Quiz >> </string>
+</resources>
